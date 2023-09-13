@@ -1,4 +1,4 @@
-# Hi there, akafelipe also known as Felipe Siqueira.
+# Hi there, akafelipe also known as Felipe.
 ### 🌱 I’m currently learning JAVA, JavaScript and APEX <i>Salesforce.</i>
 
 <div>
