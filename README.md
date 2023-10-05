@@ -1,8 +1,9 @@
-# Hi there, akafelipe also known as Felipe.
-### 🌱 I’m currently learning JAVA, JavaScript and APEX <i>Salesforce.</i>
+# Hi there,
+### 🌱 I’m currently learning Apex Sales<i>f</i>orce, LWC, HTML and JavaScript.
+### Using the most of GitHub to improve my code control!
 
 <div>
-  <img align="center" alt="akafelipe-Java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="akafelipe-Java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hmtl/html-plain.svg">
   <img align="center" alt="akfelipe-JS" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="akafelipe-Salesforce" src="https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg">
 </div>
