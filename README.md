@@ -8,7 +8,6 @@
 ### Using the most of GitHub to improve my code control!
  
 <div>
-  
   :mailbox_with_no_mail: Reach me out!&nbsp;&nbsp;  
   <br>
   <a href="mailto:sqr.felipe@gmail.com"><img align="center" src="https://img.shields.io/badge/GMAIL-red"></a>
