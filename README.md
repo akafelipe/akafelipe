@@ -1,5 +1,5 @@
 # Hi there,
-### 🌱 I’m currently learning Apex Sales<i>f</i>orce, LWC, HTML and JavaScript.
+### 🌱 I’m currently learning Apex Sales<i>f</i>orce, Oriented Object Programming, HTML and JavaScript.
 ### Using the most of GitHub to improve my code control!
 
 <div>
