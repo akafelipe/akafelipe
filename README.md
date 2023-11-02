@@ -3,8 +3,9 @@
 ### Using the most of GitHub to improve my code control!
 
 <div>
-  <img align="center" alt="akfelipe-JS" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="akafelipe-Salesforce" src="https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg">
+  <img align="center" alt="akfelipe-JS" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="akafelipe-HTML" src="icons/html5/html5-original.svg">
 </div>
 
  
